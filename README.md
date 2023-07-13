@@ -1,7 +1,7 @@
 ### Olá! Eu sou Rafael Carvalho
 
 - 🌱 Cursando Análise e Desenvolvimento de Sistemas
-- 🌱 Estudando Java, HTML, CSS (SASS), JavaScript
+- 🌱 Estudando HTML, CSS (SASS), JavaScript
 - 😄 Pronouns: ele/dele
 
 <div align="left">
