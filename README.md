@@ -1,7 +1,7 @@
 ### Olá! Eu sou Rafael Carvalho
 
 - 🌱 Cursando Análise e Desenvolvimento de Sistemas
-- 🌱 Cursando A Formação Acelerada em Programação Front-End na Softex
+- 🌱 Cursando Formação Acelerada em Programação Front-End na Softex
 - 🌱 Estudando HTML, CSS (SASS), JavaScript
 - 😄 Pronouns: ele/dele
 
